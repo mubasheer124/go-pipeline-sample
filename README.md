@@ -1,4 +1,3 @@
-
 # Go Sample Pipelines in Harness.
 
 Introduction
